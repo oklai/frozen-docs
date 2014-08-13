@@ -1,6 +1,6 @@
 ## frozen-docs
 
-Write docs in gitHub flavored markdown.
+Write docs in github flavored markdown.
 
 ## Usage
 
